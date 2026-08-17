@@ -63,6 +63,6 @@ Para manter a solução direta e adequada ao ambiente escolar, esta versão não
 
 O planejamento do projeto está dividido em três specs:
 
-- [Requisitos](./requirements.md)
-- [Design](./design.md)
-- [Tarefas](./tasks.md)
+- [Requisitos]
+- [Design]
+- [Tarefas]
