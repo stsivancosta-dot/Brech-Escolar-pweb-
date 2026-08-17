@@ -1,4 +1,4 @@
-# Brechó Estudantil
+# Brechó Estudantil (!1)
 
 > Um espaço simples para alunos anunciarem, encontrarem, venderem ou trocarem itens ligados à vida escolar.
 
